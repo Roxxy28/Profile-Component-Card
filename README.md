@@ -1,5 +1,7 @@
 # Frontend Mentor - Profile card component
 
+https://roxxy28.github.io/Profile-Component-Card/
+
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
